@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /site
+Disallow: /private/
+Sitemap: https://falling-pickaxe.lb-game.ru/sitemap.xml
